@@ -28,3 +28,8 @@
 
 ## STM32 Pins
 ![STM32Schematic](https://i.imgur.com/aN8i9SQ.png)
+
+
+#### Esse projeto usa uma versão simplificado do driver PCD8544. 
+#### Você pode encontrar a versão completa com suporte a fonte customizadas e outras funções graficas aqui: 
+https://github.com/dhannyell/stm32-pcd8544
